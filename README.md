@@ -25,7 +25,7 @@ but if you can't match anything, it's a waste of money. Winnings follow these ru
 6. Match FOUR white balls:                           You get $500. Multipliers up to 10x take effect.
 7. Match FOUR white balls AND the gold ball:         You get $10,000. Multipliers up to 10x take effect.
 8. Match ALL FIVE white balls:                       You get $1,000,000. Multipliers up to 2x take effect, others default to 2x.
-9. Match ALL FIVE white balls AND the gold ball:     You get the Grand Prize (starts at $40 million)
+9. Match ALL FIVE white balls AND the gold ball:     You get the Grand Prize (starts at $40 million).
 
 ### How to use this project:
 1. Download all the files, obviously. Put them in a dedicated folder,
