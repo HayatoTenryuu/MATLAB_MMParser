@@ -88,6 +88,7 @@ function [bestw, bestr, fig] = firstTest(contents)
     title("Frequency of each white number");
     xlabel("Ball Numbers");
     ylabel("Count");
+    ylim([min(y)/4, max(y)*1.25]);
     
     % Odds plot as a show of how many times each WHITE number has been pulled,
     % relative to the number of WHITE balls that have been pulled.
@@ -106,6 +107,7 @@ function [bestw, bestr, fig] = firstTest(contents)
     title("Frequency of each gold number");
     xlabel("Ball Numbers");
     ylabel("Count");
+    ylim([min(y2)/4, max(y2)*1.25]);
     
     % Odds plot as a show of how many times each GOLD number has been pulled, 
     % relative to the number of RED balls that have been pulled.
