@@ -38,3 +38,8 @@ but if you can't match anything, it's a waste of money. Winnings follow these ru
 5. Optional step, but it exists if you want it - you can see what kind of pattern the previous numbers fell as
     by opening the "figure\Mega Millions stats.xlsx" file. Numbers with a 1 next to them were the previous winning
     numbers, and columns are ordered by likely-medium-unlikely.
+
+### Future updates (if I care to keep going):
+1. Identify the most common pattern of number pulls historically - whether it tends to pull 2 from medium, 2 from
+    unlikely, and 1 from likely, or different patters from different years, etc (year 1 will not have data). This
+    feature would have both yearly and total versions being output.
