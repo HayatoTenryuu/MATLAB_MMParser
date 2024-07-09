@@ -35,3 +35,6 @@ but if you can't match anything, it's a waste of money. Winnings follow these ru
     before you click the next one. Also make sure you have internet. The first
     step is to download some reference data, after all.
 4. Once the last step is complete, take your numbers and buy a mega millions ticket.
+5. Optional step, but it exists if you want it - you can see what kind of pattern the previous numbers fell as
+    by opening the "figure\Mega Millions stats.xlsx" file. Numbers with a 1 next to them were the previous winning
+    numbers, and columns are ordered by likely-medium-unlikely.
